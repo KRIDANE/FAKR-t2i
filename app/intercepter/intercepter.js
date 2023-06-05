@@ -1,4 +1,4 @@
-angular.module('projectNameApp').controller('MyController', ['$scope', '$http', function($scope, $http) {
+angular.module('myApp').controller('MyController', ['$scope', '$http', function($scope, $http) {
     // Exemple d'appel HTTP GET
     $http.get('/api/data')
       .then(function(response) {

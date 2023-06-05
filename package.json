@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "angular-auth-oidc-client": "^15.0.5",
-    "angular-http-auth": "^1.5.0"
+    "angular-http-auth": "^1.5.0",
+    "mime": "^3.0.0"
   }
 }
